@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "32003dab-1ad9-d853-4cd2-88d8f4fde6e8",
+      "e144823f-ea01-a100-f387-7740404f5c05"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Perspectives in Biological Engineering",
+  "course_description": "This seminar-format course provides an in-depth presentation and discussion of how engineering and biological approaches can be combined to solve problems in science and technology, emphasizing integration of biological information and methodologies with engineering analysis, synthesis, and design. Emphasis is placed on molecular mechanisms underlying cellular processes, including signal transduction, gene expression networks, and functional responses.\n",
+  "department_numbers": [
+    "20",
+    "7"
+  ],
+  "extra_course_numbers": "7.548J",
+  "primary_course_number": "20.400J",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
